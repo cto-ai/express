@@ -1,0 +1,7 @@
+version: "1"
+services:
+  - name: express:0.1.0
+    description: An express example.
+    run: npm start
+    port: [ '8080:8080' ]
+    domain: ""
