@@ -13,5 +13,3 @@ COPY bin bin
 COPY routes routes
 COPY public public
 COPY views views
-
-
